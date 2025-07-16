@@ -1,6 +1,6 @@
 Backend (Node.js + Express.js)
 - npm init
-- npm install bcrypt cors dotenv express express-session jsonwebtoken mysql2
+- npm install bcrypt cors dotenv express express-session mysql2
 - npm install --save-dev nodemon
 
 Frontend (Next.js)
